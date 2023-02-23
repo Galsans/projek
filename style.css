@@ -206,6 +206,27 @@ iframe {
     width: 400px;
 }
 
+/* CONTENT KE 5 */
+.wrap_5 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.wrapper_5 img {
+    width: 400px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.list_5 {
+    width: 50%;
+    margin-left: 20px;
+}
+.list_5 h2 {
+    text-align: center;
+}
+
+
 /* Responsive */
 @media screen and (max-width: 400px) {
     .brand img {
